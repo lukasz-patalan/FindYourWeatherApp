@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+  background-image: url("https://images.wallpaperscraft.com/image/hong_kong_china_skyscrapers_night_city_city_lights_119347_1920x1080.jpg");
+  height: 100vh;
+  color: white;
+  margin-top: -20px;
+  padding-top: 20px;
 }
 
 .App-logo {

@@ -1,0 +1,28 @@
+.typeCity {
+  background: transparent;
+  color: white;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid white;
+  margin-right: 1em;
+  width: 8em;
+  font-size: 3em;
+}
+
+.findButton {
+  background-color: transparent;
+  border: 1px solid #929292;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 8px;
+  outline: none;
+}
+.findButton:active {
+  background: rgba(255, 255, 255, 0.473);
+}

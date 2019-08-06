@@ -1,0 +1,9 @@
+.result {
+  padding: 3px;
+  background: rgba(0, 0, 0, 0.562);
+  border-radius: 2em;
+  width: 500px;
+  margin: 10px auto;
+  font-weight: bold;
+  font-size: 20px;
+}
